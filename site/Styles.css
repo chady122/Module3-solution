@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #4b7d9e;
+    background-color: #599e4b;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c95d15;
+    background-color: #c98715;
     border-radius: 0;
     border: 0;
 }
@@ -91,9 +91,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color:#7b96ed;
+    background-color: #99ed7b;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #3b6ca5;
+    box-shadow: 0 0 80px #18580b;
 }
 
 
